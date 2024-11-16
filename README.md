@@ -7,7 +7,7 @@ mindmap
       São Paulo
       Rio de Janeiro
       Minas Gerais
-        Município
+        Municípios
           Iturama
     Distrito Federal
       Brasília
